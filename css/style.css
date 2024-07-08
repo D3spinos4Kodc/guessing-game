@@ -1,4 +1,4 @@
-* {
+*{
   box-sizing: border-box;
   margin: 0;
   padding: 0;
@@ -19,7 +19,7 @@ body {
 }
 
 body::before {
-  background-image: url("img/code.png");
+  background-image: url("assets/img/code1.png");
   background-repeat: no-repeat;
   background-position: right;
   content: "";
